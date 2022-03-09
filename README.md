@@ -27,6 +27,8 @@
 
 - Goals in the range of 45,000 to 49,999 had by far the highest rate of failure at an astounding 100%.
 
+![Outcomes_vs_Goals.png](Images/Outcomes_vs_Goals.png)
+
 ### Challenges and Difficulties Encountered
 
 - Had issues with properly narrowing down the data using the "=COUNTIFS" formula, but found exact syntax needed to describe the desired outcome by adding an additional argument to count by plays.
