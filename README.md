@@ -46,10 +46,10 @@
 
 - What are some limitations of this dataset?
 
-    1. In addition to plays, this dataset also includes information about musicals, and spaces.
+    1. In addition to plays, this dataset also includes information about musicals and spaces.
     2. This dataset only considers plays from one crowdfunding website; there are other services that provide similar services to launch performance art that are similar to Kickstarter, such as Indie GoGo or Wefund.  The most recent dates this dataset has to offer are from 2017, more recent data would be more relavent to determin the best time to launch a Kickstarter for plays in 2022.
 
 - What are some other possible tables and/or graphs that we could create?
 
-    1. We could compare the ratio of success to failure by month for plays.
+    1. We could compare the ratio of success to failure by month for plays, as seen on the worksheet "Percent_of_Outcomes".
     2. We could calculate the percentage of successful, failed, or canceled campaigns by date, like the calculations used for Outcome Based on Goal.  
