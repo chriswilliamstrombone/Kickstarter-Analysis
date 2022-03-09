@@ -37,16 +37,19 @@
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-- The month of May saw the most Kickstarter campaigns for plays, and in turn had the most successful plays, and the most failed plays in one month. The month of December had the highest rate for failure by percent of play campaigns.
+    1. The month of May saw the most Kickstarter campaigns for plays, and in turn had the most successful plays, and the most failed plays in one month.
+    2. The month of December had the lowest rate of succes by percent of play campaigns, while the month of Ocotber saw a high failure to success ratio.
 
 - What can you conclude about the Outcomes based on Goals?
 
-- Campaigns with low goal amounts tend to be the most successful, with an exception for goals in the range of 35,000 to 44,999.
+    1. Campaigns with low goal amounts tend to be the most successful, with an exception for goals in the range of 35,000 to 44,999.
 
 - What are some limitations of this dataset?
 
-- This dataset only considers plays from one crowdfunding website; there are other services that provide similar services to launch performance art that are similar to Kickstarter, such as Indie GoGo or Wefund.  The most recent dates this dataset has to offer are from 2017, more recent data would be more relavent to determin the best time to launch a Kickstarter for plays in 2022.
+    1. In addition to plays, this dataset also includes information about musicals, and spaces.
+    2. This dataset only considers plays from one crowdfunding website; there are other services that provide similar services to launch performance art that are similar to Kickstarter, such as Indie GoGo or Wefund.  The most recent dates this dataset has to offer are from 2017, more recent data would be more relavent to determin the best time to launch a Kickstarter for plays in 2022.
 
 - What are some other possible tables and/or graphs that we could create?
 
-- We could calculate the percentage of successful, failed, or canceled campaigns by date, like the calculations used for Outcome Based on Goal.  
+    1. We could compare the ratio of success to failure by month for plays.
+    2. We could calculate the percentage of successful, failed, or canceled campaigns by date, like the calculations used for Outcome Based on Goal.  
