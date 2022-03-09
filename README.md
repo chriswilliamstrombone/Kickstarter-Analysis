@@ -19,7 +19,7 @@
 
 - The worst month to launch a play campaign would be December, with January, March, September, and November also being lower months of success for plays as seen in the picture below.
 
-![Outcomes Based on Launch Date line.png](Outcomes Based on Launch Date line.png)
+![Theater_Outcomes_vs_Launch.png](Images/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
